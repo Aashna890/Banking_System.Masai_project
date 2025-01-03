@@ -1,5 +1,5 @@
 # Banking_System.Masai_project
-Banking System Project
+Banking System Project:
 This is a user-friendly Banking system project built with Python,Streamlit and SQLite.it has features like user registration,secure login,deposits,withdrawals and balance inquiries.
 packages used: sqlite3
                streamlit
